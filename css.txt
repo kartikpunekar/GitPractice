@@ -1,0 +1,19 @@
+background-color[background color]
+color           [text color]
+font-size       [size of the font px,%,em]
+font-family     [font type]
+border-bottom:  [puts a line below]
+border          [puts a box]
+text-decoration [ex :underline]
+font-weight     [thickness]
+font-style      [ex :italic]
+line-height     [spacing]
+padding         [space between border and content]
+border-color
+border-width    
+border-style    [solid]
+background-image
+text-align
+
+CSS Box Model
+[margin][border][padding][content]
